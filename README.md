@@ -45,7 +45,7 @@ This mini project analyzes Amazon sales data using Python to extract meaningful 
 
 ## 👩‍💻 Author
 
-****
+**Gourinandhana TK**
 
 **B.Tech Data Science – Final Year**
 
